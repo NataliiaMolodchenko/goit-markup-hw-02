@@ -45,6 +45,9 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
+.studio:hover,
+.studio:active,
+.studio:focus,
 .portfolio:hover,
 .portfolio:focus,
 .contacts:hover,
@@ -52,11 +55,6 @@ color: #2e2f42;
     color: #404bbf;
 }
 
-.studio:hover,
-.studio:active,
-.studio:focus{
-    color: #404bbf;
-}
 .contacts{
     font-style: normal;
 }
