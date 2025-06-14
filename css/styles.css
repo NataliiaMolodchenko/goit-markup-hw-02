@@ -60,10 +60,10 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.contacts-list-item-mail:hover,
-.contacts-list-item-mail:focus,
-.contacts-list-item-number:hover,
-.contacts-list-item-number:focus{
+.contacts-list-item-address:hover,
+.contacts-list-item-address:focus,
+.contacts-list-item-address:hover,
+.contacts-list-item-address:focus{
     color: #404bbf;
 }
 /*Header section end*/
